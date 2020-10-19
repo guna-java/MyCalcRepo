@@ -1,5 +1,5 @@
 class Calc{
-  public static (int a,int b){
+  public static add(int a,int b){
   return a+b;
   }
   public static void main(String [] args){
