@@ -15,7 +15,7 @@ class Calc{
     System.out.println(sub(50,40));
      System.out.println(prod(5,40));
     
-  }
+  
     
   }
 }
