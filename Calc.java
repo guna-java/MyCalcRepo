@@ -4,7 +4,7 @@ class Calc{
   }
   public static void main(String [] args){
     int c=add(10,20);
-    System.out.pritln(c);
+    System.out.println(c);
   }
 }
 
