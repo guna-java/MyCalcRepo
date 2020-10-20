@@ -3,7 +3,8 @@ class Calc{
   return a+b;
   }
   public static void main(String [] args){
-    add(10,20);
+    int c=add(10,20);
+    systom.out.pritln(c)
   }
 }
 
